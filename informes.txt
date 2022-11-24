@@ -1,0 +1,5 @@
+Listado de informes.
+-> Cantidad de unidades vendidas totales: 568
+-> Cantidad de ventas por un monto mayor a $10.000: 63
+-> Cantidad de ventas por un monto mayor a $20.000: 24
+-> Cantidad de Eclipses vendidos: 39
